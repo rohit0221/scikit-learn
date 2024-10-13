@@ -5,3 +5,8 @@ numpy
 pandas
 seaborn
 statsmodels
+cufflinks
+pydot
+six
+graphviz
+nltk
